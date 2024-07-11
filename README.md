@@ -9,7 +9,7 @@ Technical Skills:
 - Frameworks: Laravel
 - Other: Minecraft Plugin Development
 
-Experience:
+Experience: <br>
 Developed and maintained various web applications using Laravel, PHP, and MySQL, and designing and implementing features in C# and Minecraft Java plugins.
 <br><br>**[More profile info](https://r.notohost.com/proto68)**
 
